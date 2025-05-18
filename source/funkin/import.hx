@@ -10,7 +10,7 @@ import funkin.backend.system.Logs;
 import funkin.options.Options;
 import funkin.game.PlayState;
 import funkin.backend.scripting.EventManager;
-
+import flixel.util.FlxCollision;
 import openfl.utils.Assets;
 
 import flixel.FlxSprite;
